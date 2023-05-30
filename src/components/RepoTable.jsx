@@ -1,5 +1,5 @@
 import { Space, Table, Tag, Button } from "antd";
-import * as dayjs from "dayjs";
+import dayjs from "dayjs";
 
 const columns = [
   {
