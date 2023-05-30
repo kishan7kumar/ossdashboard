@@ -14,7 +14,9 @@ const HomePage = () => {
               OSS Dashboard
             </div>
             <div className="py-10 text-white text-lg font-medium">
-              Visualize various metrics for XYZ open source software
+              The OSS Dashboard collects data on all repos with 1,000+ GitHub
+              stars <br></br>and publish the top 50 companies that are
+              affiliated with these repos.
             </div>
             <div>
               <Button
